@@ -54,5 +54,5 @@ Basic Mission
     
 8. Create-react-app 패키지를 이용해서 react-basic-app 이라는 폴더 안에 리액트 앱을 설치해주세요.
 
-    cd react-basic-app
+    cd react-basic-app <br/>
     npx create-react-app@latest .
